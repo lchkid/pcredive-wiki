@@ -1,19 +1,7 @@
 # priceconnectredive
 
-## Project setup
-```
-npm install
-```
+公主连结Redive国服WIKI(误) :D
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+无接口，数据来源bilibili wiki
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+部分数据爬下来发现与游戏内翻译有出入，遂校对之

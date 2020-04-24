@@ -97,7 +97,7 @@ export default {
 .banner {
   width: 657px;
   height: 316px;
-  margin: 10px auto;
+  margin: 0 auto 10px;
 }
 
 .carousel img{

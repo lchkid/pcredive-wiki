@@ -28,7 +28,7 @@
             <Icon type="ios-navigate" />困难地图
           </MenuItem>
         </Submenu>
-        <MenuItem name="4">
+        <MenuItem name="tool">
           <Icon type="ios-paper" />其他相关
         </MenuItem>
       </div>
