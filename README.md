@@ -1,4 +1,4 @@
-# priceconnectredive
+# princessconnectredive
 
 公主连结Redive国服WIKI(误) :D
 
